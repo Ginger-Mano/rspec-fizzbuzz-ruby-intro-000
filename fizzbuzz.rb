@@ -1,8 +1,8 @@
 def fizzbuzz(integer)
 
-if integer % 3 = 0
+if integer % 3 == 0
   puts "Fizz"
-elsif integer % 5 = 0
+elsif integer % 5 == 0
   puts "Buzz"
 elsif integer % 3 == 0 && 5 == 0
   puts "Fizzbuzz"
