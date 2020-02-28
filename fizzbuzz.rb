@@ -5,7 +5,7 @@ if integer % 3 == 0
 elsif integer % 5 == 0
   return "Buzz"
 elsif integer % 3 && 5 == 0
-  return "Fizzbuzz"
+  return "FizzBuzz"
 else integer % 4
   return "nil"
   end
