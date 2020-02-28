@@ -1,4 +1,4 @@
-require_relative './'fizzbuzz_spec.rb'
+require_relative './fizzbuzz_spec.rb'
 
 def fizzbuzz
 
