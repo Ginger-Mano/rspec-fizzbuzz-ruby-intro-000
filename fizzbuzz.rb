@@ -4,9 +4,9 @@ if integer % 3
   puts "Fizz"
 elsif integer % 5
   puts "Buzz"
-elsif integer % 3 || 5 == 0
+elsif integer % 3 && 5 == 0
   puts "Fizzbuzz"
-else integer % 4 
+else integer % 4
   puts "nil"
   end
 end
