@@ -1,4 +1,4 @@
-require "pry"
+require pry
 require_relative './fizzbuzz_spec.rb'
 binding.pry
 require_relative '../spec_helper.rb'
