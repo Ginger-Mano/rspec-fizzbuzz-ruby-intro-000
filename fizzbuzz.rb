@@ -2,7 +2,7 @@ def fizzbuzz
 
 fizz_15 = "fizzbuzz"
 
-if a number is divisible by 3
+if 15(3)
   puts "Fizz"
 elsif fizz_5 == fizzbuzz(5)
   puts "Buzz"
