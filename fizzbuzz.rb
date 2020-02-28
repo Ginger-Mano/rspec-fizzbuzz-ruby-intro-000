@@ -7,5 +7,5 @@ elsif fizz_5 = fizzbuzz(5)
 elsif fizz_15 = fizzbuzz(15)
   puts "Fizzbuzz"
 else fizz_4 = fizzbuzz(4)
-  puts "nil"   
+  puts "nil"
 end
