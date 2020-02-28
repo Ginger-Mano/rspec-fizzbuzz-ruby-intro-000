@@ -1,7 +1,6 @@
-require pry
 require_relative './fizzbuzz_spec.rb'
 require_relative '../spec_helper.rb'
-binding.pry
+
 def fizzbuzz
 
 if fizz_3 = fizzbuzz(3)
