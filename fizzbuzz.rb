@@ -2,7 +2,7 @@ def fizzbuzz
 
 fizz_15 = "fizzbuzz"
 
-if 15(3)
+if fizz_3 = fizzbuzz(3)
   puts "Fizz"
 elsif fizz_5 == fizzbuzz(5)
   puts "Buzz"
