@@ -1,7 +1,5 @@
 def fizzbuzz(integer)
 
-integer = "x"
-
 if integer % 3 == 0
   puts "Fizz"
 elsif integer % 5 == 0
