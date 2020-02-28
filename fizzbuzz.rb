@@ -11,4 +11,5 @@ elsif fizz_15 = fizzbuzz(15)
   puts "Fizzbuzz"
 else fizz_4 = fizzbuzz(4)
   puts "nil"
+  end
 end
