@@ -6,7 +6,7 @@ elsif integer % 5 == 0
   return "Buzz"
 elsif integer % 3 && 5 == 0
   return "FizzBuzz"
-else integer % 4
+elsif integer % 4 == 0
   return "nil"
   end
 end
